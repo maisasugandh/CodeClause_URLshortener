@@ -1,0 +1,2 @@
+Reference URL : https://www.google.com/search?q=python+list+methods&oq=python+list&aqs=chrome.1.69i57j0i433i512j0i512j0i433i512j0i512l6.6726j0j7&sourceid=chrome&ie=UTF-8
+output URL    : https://tinyurl.com/2hk86n84
